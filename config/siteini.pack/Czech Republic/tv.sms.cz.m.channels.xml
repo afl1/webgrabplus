@@ -53,7 +53,7 @@
     <channel update="i" site="tv.sms.cz.m" site_id="Golf+Channel" xmltv_id="Golf Channel">Golf Channel</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="Harmonie+TV" xmltv_id="Harmonie TV">Harmonie TV</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="HBO" xmltv_id="HBO">HBO</channel>
-    <channel update="i" site="tv.sms.cz.m" site_id="HBO+Comedy" xmltv_id="HBO Comedy">HBO Comedy</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="HBO3" xmltv_id="HBO3">HBO Comedy</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="HBO2" xmltv_id="HBO2">HBO2</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="HD+Plus" xmltv_id="HD Plus">HD Plus</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="History+Channel" xmltv_id="History Channel">History Channel</channel>
@@ -79,7 +79,7 @@
     <channel update="i" site="tv.sms.cz.m" site_id="Noe" xmltv_id="Noe">Noe</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="Nova" xmltv_id="Nova">Nova</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="Nova+Cinema" xmltv_id="Nova Cinema">Nova Cinema</channel>
-    <channel update="i" site="tv.sms.cz.m" site_id="Nova+sport" xmltv_id="Nova sport">Nova sport</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Nova+Sport+1" xmltv_id="Nova Sport 1">Nova Sport 1</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="Nova+Sport+2" xmltv_id="Nova Sport 2">Nova Sport 2</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="O2+Info+1" xmltv_id="O2 Info 1">O2 Info 1</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="O2+Sport" xmltv_id="O2 Sport">O2 Sport</channel>
@@ -144,16 +144,15 @@
     <channel update="i" site="tv.sms.cz.m" site_id="PVTV" xmltv_id="PVTV">PVTV</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="RiK" xmltv_id="RiK">RiK</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="SENZI" xmltv_id="SENZI">SENZI</channel>
-    <channel update="i" site="tv.sms.cz.m" site_id="Slovak+Sport+TV1" xmltv_id="Slovak Sport TV1">Slovak Sport TV1</channel>
-    <channel update="i" site="tv.sms.cz.m" site_id="Slovak+Sport+TV2" xmltv_id="Slovak Sport TV2">Slovak Sport TV2</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Arena+Sport+1" xmltv_id="Arena Sport 1">Arena Sport 1</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="Arena+Sport+2" xmltv_id="Arena Sport 2">Arena Sport 2</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="STV1" xmltv_id="STV1">STV1</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="STV2" xmltv_id="STV2">STV2</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="TA3" xmltv_id="TA3">TA3</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="Telev%EDzia+Z" xmltv_id="Televízia Z">Televízia Z</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="%8Duki" xmltv_id="Ťuki">Ťuki</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="TV+Bratislava" xmltv_id="TV Bratislava">TV Bratislava</channel>
-    <channel update="i" site="tv.sms.cz.m" site_id="TV+DAJTO" xmltv_id="TV DAJTO">TV DAJTO</channel>
-    <channel update="i" site="tv.sms.cz.m" site_id="TV+Na%9Aa" xmltv_id="TV Naša">TV Naša</channel>
+    <channel update="i" site="tv.sms.cz.m" site_id="TV+DAJTO" xmltv_id="TV DAJTO">DAJTO</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="TV8" xmltv_id="TV8">TV8</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="TV9" xmltv_id="TV9">TV9</channel>
     <channel update="i" site="tv.sms.cz.m" site_id="WAU" xmltv_id="WAU">WAU</channel>

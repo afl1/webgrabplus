@@ -1,7 +1,20 @@
 Changelog WebGrab+Plus
 
+28/09/2017
+Version V2.1.5
+---------------------------------------------------------------------------------------------
+- (2.1.4.1) fixed    : index_title is selected if detail_title fails with no value
+- (2.1.4.1) fixed    : url_mdb_p7 and url_mdb_p8 were missing in ScrubOperations
+- Postprocess 2.06: 
+	- in progress    : implementing the xmltv attributes , using the xmltv class
+	- fixed          : matching with totals (St, Et and Pt) in xmltv episode-num failed
+	- optimized      : scrub of the mdbepisodenumlist
+	- fixed          : due to operations done several times in the various scopes 
+			elements can get multiple duplicate values
+
 19/09/2017
 Version V2.1.4
+---------------------------------------------------------------------------------------------
 - (2.1.3.2) update   : new tzdatabase based on tzdata2017b (again)
 - (2.1.3.2) fixed    : set(type=run) error in path composition in linux
 - (2.1.3.1) fixed    : previous elements were not properly implemented in class Times
